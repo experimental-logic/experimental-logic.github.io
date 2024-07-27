@@ -1,10 +1,9 @@
 ---
 layout: home
-title: Site Name
+title: Experimental Logic
 ---
-# Github.io template. Index
+# Experimental Logic
 <pre>
-  'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his book 
-  "Cybernetics, or Control and Communication in the Animal and the Machine".
+  Logic is an experimental science based on non-monotonic evolution of interactions/games.
 </pre>
 [Page 1](./pages/page_1)
